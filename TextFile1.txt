@@ -1,0 +1,10 @@
+﻿
+
+A penny is worth 1 cent. A nickel is worth 5 cents. A dime is worth 10 cents. A quarter is worth 25 cents.
+
+
+1 cent = 1 penny
+1 cent = 0.01 dollar
+
+100 cent= 1 dollar
+
